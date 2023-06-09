@@ -31,6 +31,16 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+## How to use Stubby
+
+To learn more about how to mock using stubby check this article in spanish or english:
+
+- [Mastering Stubby: The Ultimate Step-by-Step Guide to Effortless Backend Mocking](https://code-and-cozy.medium.com/mastering-stubby-the-ultimate-step-by-step-guide-to-effortless-backend-mocking-1d2fa0288b61)
+- [Dominando Stubby: La Guía Definitiva paso a paso para Mockear el Backend](https://code-and-cozy.medium.com/dominando-stubby-la-gu%C3%ADa-definitiva-paso-a-paso-para-mockear-el-backend-72c658e251cd)
+
+
+And also you can check their own documentation [npm stubby package](https://www.npmjs.com/package/stubby).
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
