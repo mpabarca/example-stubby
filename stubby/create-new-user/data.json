@@ -1,0 +1,9 @@
+{
+    "status": 200,
+    "message": "User created successfully!",
+    "user": {
+        "id": 111,
+        "name": "Anita",
+        "email": "Smith"
+    }
+}

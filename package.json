@@ -1,0 +1,21 @@
+{
+  "name": "example-stubby",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "dev:stubby": "concurrently --kill-others \"npm run stubby\" \"npm run dev\"",
+    "stubby": "stubby -w -d ./stubby/index.yaml -s 8815 -a 8816 -t 8817"
+  },
+  "dependencies": {
+    "next": "13.4.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
